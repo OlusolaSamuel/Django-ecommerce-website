@@ -1,4 +1,4 @@
-.env-sample
+.env-sample/
 # Byte-compiled files
 *.pyc
 *.pyo
